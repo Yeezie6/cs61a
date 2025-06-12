@@ -1,0 +1,10 @@
+{
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "on"
+    },
+    "editor.wordBasedSuggestions": "off",
+    "editor.snippetSuggestions": "none",
+    "python.analysis.autoImportCompletions": true
+}
